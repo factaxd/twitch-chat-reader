@@ -2,6 +2,8 @@
 
 This project is focused on using **Twitch API** and **IRC** to create a system that processes Twitch chat messages, filters them based on certain criteria (such as keywords or specific users), and integrates with a custom user interface. The main functionality includes real-time chat monitoring, keyword-based actions, and user-specific message filtering.
 
+![Ekran görüntüsü 2024-09-07 214915](https://github.com/user-attachments/assets/0fe61995-1165-4548-9872-87f44c46cba6)
+
 ## Features
 - **Twitch IRC Connection**: Establishes a connection to Twitch's IRC chat system using OAuth authentication.
 - **Real-time Chat Monitoring**: Listens for real-time chat messages from a Twitch channel.
